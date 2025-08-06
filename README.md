@@ -13,7 +13,7 @@
 
 ### Estatísticas do GitHub
 
-[![Suas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Suas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=dev-andrecaldas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
