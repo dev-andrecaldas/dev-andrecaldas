@@ -9,6 +9,7 @@
 * 💻 Estou buscando projetos para colaborar e ganhar experiência prática.
 * 💬 Como me encontrar: andrecaldas753@gmail.com
 
+---
 
 ### Linguagens e Ferramentas
 
