@@ -1,4 +1,4 @@
-# Hi there! 👋 Meu nome é André da Silva
+# Olá! 👋 Meu nome é André da Silva
 
 ---
 
