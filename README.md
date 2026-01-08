@@ -9,15 +9,6 @@
 * 💻 Estou buscando projetos para colaborar e ganhar experiência prática.
 * 💬 Como me encontrar: andrecaldas753@gmail.com
 
----
-
-### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-andrecaldas&show_icons=true&theme=dark)
-### Linguagens mais usadas
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-andrecaldas&layout=compact&theme=dark)
----
 
 ### Linguagens e Ferramentas
 
